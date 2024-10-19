@@ -1,0 +1,9 @@
+# config/default.yaml
+
+
+/test/image_publisher:
+  ros__parameters:
+    video_path: "/home/sky/ros2_test_video_publisher/test_car.MP4"
+    keep_processing: true
+
+
